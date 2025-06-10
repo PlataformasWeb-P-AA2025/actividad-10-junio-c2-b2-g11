@@ -1,3 +1,6 @@
+# Integrantes
+- Denis Ruiz
+- Santiago Sarango
 # actividad-c2-2bim
 -----
 
